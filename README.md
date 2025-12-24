@@ -33,7 +33,7 @@ automation. I have worked on a variety of projects, including:
 
 ## Featured Projects
 
-### [1. Fleet Sizing & Optimization](./fleet-optimizzation/README.md)
+### [1. Fleet Sizing & Optimization](./fleet-optimization/README.md)
 
 Comprehensive fleet sizing and traffic management simulation for AMR deployments.
 
@@ -46,7 +46,7 @@ Comprehensive fleet sizing and traffic management simulation for AMR deployments
 
 ![Fleet Sizing & Optimization](./images/Simulation_Timeline.png)
 
-[view full project](./fleet-optimizzation)
+[view full project](./fleet-optimization)
 
 ### [2. Continuous Improvement Through Digital Shadow](./continuous-improvement/README.md)
 
