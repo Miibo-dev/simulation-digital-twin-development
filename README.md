@@ -11,7 +11,7 @@ intralogistics systems (2022-2025).
 
 ## About
 
-I'm an Automation & Digital Twin Engineer specializing in warehouse automation and digital twin technology. With 4 years of experience delivering 35+ production simulations across AMR fleet optimization and virtual commissioning projects.
+I'm an Automation & Digital Twin Engineer specializing in warehouse automation and digital twin technology. With 3 years of experience delivering 35+ production simulations across AMR fleet optimization and virtual commissioning projects.
 
 **💼 LinkedIn:** [Mohammad Bahrami](https://www.linkedin.com/in/mohammad-bahrami/)
 **📧 Contact:** bahrami98mohammad@gmail.com
@@ -48,7 +48,7 @@ Comprehensive fleet sizing and traffic management simulation for AMR deployments
 
 [view full project](./fleet-optimization)
 
-### [2. Continuous Improvement Through Digital Shadow](./continuous-improvement/README.md)
+### [2. Continuous Improvement Through Digital Shadow](./media/continuous-improvement/README.md)
 
 Real-time performance optimization using digital shadow technology.
 
