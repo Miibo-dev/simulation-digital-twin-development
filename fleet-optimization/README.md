@@ -148,7 +148,7 @@ Analysis of whether demand can be met:
 
 Traffic heatmaps reveal congestion zones and bottlenecks:
 
-![Traffic Heatmap](./media/images/heatmap.png)
+![Traffic Heatmap](./media/images/Heatmap.png)
 
 **Key findings:**
 - **Hot zones (red):** High traffic density at narrow corridor on the left side of the warehouse
