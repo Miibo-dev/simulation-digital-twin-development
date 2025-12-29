@@ -207,17 +207,12 @@ This video shows the real testing workflow, including:
 
 #### Testing and Debugging
 
-![Testing and Debugging Process](./media/videos/Robot1.gif)
-
-![Problem-Solving Demo](./media/videos/Robot1.gif)
-
-This video shows the real testing workflow, including:
-- Discovering integration issues during testing
-- Analyzing root causes
-- Implementing fixes in real-time
-- Validating solutions
 
 **These videos showcase the actual development process**, highlighting the iterative nature of virtual commissioning and the ability to rapidly identify and resolve issues without physical hardware.
+
+![Testing and Debugging Process](./media/videos/Robot1.gif)
+
+![Problem-Solving Demo](./media/videos/Robot2.gif)
 
 ---
 

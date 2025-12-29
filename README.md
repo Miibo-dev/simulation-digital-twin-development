@@ -59,6 +59,8 @@ Real-time performance optimization using digital shadow technology.
 - Increased fleet efficiency by up to 20%
 - Implemented data-driven traffic management
 
+![Continuous Improvement](./media/images/ci.png)
+
 [view full project](./continuous-improvement/)
 
 ### [3. Virtual Commissioning for Robotic Integration](./robotic-integration/README.md)
@@ -70,6 +72,8 @@ Digital twin for robot-conveyor integration with PLC synchronization.
 - Ensured robot-conveyor synchronization with PLC
 - Validated control logic before deployment
 - Reduced FAT and SAT timeline
+
+![Robot integeration](./media/images/Robot.png)
 
 [view full project](./robotic-integration/)
 
